@@ -1,0 +1,8 @@
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\bin\Debug\LBP2.exe
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\bin\Debug\LBP2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\obj\Debug\LBP2.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\obj\Debug\LBP2.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\obj\Debug\LBP2.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\obj\Debug\LBP2.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\obj\Debug\LBP2.exe
+c:\users\acer\documents\visual studio 2015\Projects\LBP2\LBP2\obj\Debug\LBP2.pdb
